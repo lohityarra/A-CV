@@ -1,0 +1,20 @@
+body {
+  background-color: #FFE2E2;
+}
+.profile-img{
+  border-radius: 50%;
+}
+hr{
+  border-style:none;
+  border-top-style: dotted;
+  border-color: grey;
+  height:0px;
+
+  width:5%;
+}
+h1{
+  color: #AC7D88;
+}
+h2{
+  color: #AC7D88;
+}
